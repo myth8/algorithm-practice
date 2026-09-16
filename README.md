@@ -1,39 +1,31 @@
-# lknk-practice
+# 🚀 算法练习代码仓库
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+记录个人算法练习代码，题目来源包括 **LeetCode Hot 100** 和 **牛客网 TOP 101**。
 
-#### 软件架构
-软件架构说明
+## 📖 项目简介
 
+本仓库用于记录和整理算法刷题过程中的代码实现与解题思路，涵盖高频面试题、经典算法题型，旨在提升算法思维与编码能力，同时为面试准备提供参考。
 
-#### 安装教程
+## 📂 题目来源
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+| 平台 | 题单 | 说明 |
+|------|------|------|
+| [LeetCode](https://leetcode.cn/) | Hot 100 | LeetCode 官方精选 100 道高频面试题 |
+| [牛客网](https://www.nowcoder.com/) | TOP 101 | 牛客网精选 101 道算法高频题 |
 
-#### 使用说明
+## 🛠️ 语言与工具
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **编程语言**：Python
+- **开发工具**：VS Code
+- **版本管理**：Git
 
-#### 参与贡献
+## ✍️ 代码规范
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- 每道题独立目录，包含源代码与题解说明
+- 注释清晰，关键步骤附有思路说明
+- 尽量给出多种解法并分析时间/空间复杂度
 
 
-#### 特技
+## 🤝 贡献与交流
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+欢迎交流讨论，如有更好的解法或建议，欢迎提 Issue 或 PR！
