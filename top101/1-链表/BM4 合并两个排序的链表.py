@@ -15,14 +15,8 @@ class Solution:
         # write code here
         ansNode = ListNode(-1)
         pre = ansNode
-        p1d = ListNode(-1)
-        p1d.next = pHead1
-        p2d = ListNode(-1)
-        p2d.next = pHead2
         p1 = pHead1
-        p1f = p1d
         p2 = pHead2
-        p2f = p2d
         while p1 and p2:
             if p1.val <= p2.val:
                 p = p1
